@@ -1,1 +1,1 @@
-script that creates a director
+script that creates a directory
