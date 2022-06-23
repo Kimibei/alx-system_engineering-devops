@@ -1,1 +1,1 @@
- script that prints the effective username
+Write a script that prints the effective username
