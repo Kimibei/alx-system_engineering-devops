@@ -1,1 +1,1 @@
-Bye bye My first directory
+My name is Betty
