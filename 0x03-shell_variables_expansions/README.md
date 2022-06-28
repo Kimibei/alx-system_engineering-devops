@@ -1,1 +1,1 @@
-script that creates an alias
+where user is the current Linux user
