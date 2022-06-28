@@ -1,1 +1,1 @@
-prints the result 
+displays the result
