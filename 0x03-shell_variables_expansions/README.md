@@ -1,1 +1,1 @@
-all possible combinations
+number with two decimal places
