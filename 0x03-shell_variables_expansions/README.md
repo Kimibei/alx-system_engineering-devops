@@ -1,1 +1,1 @@
-converts a number
+all possible combinations
