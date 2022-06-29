@@ -1,1 +1,1 @@
-number with two decimal places
+converts a number from base
